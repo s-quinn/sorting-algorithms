@@ -7,4 +7,12 @@ implementations of different sorting algorithms
   * averge case : O(nlogn)
   * worst case: O(nlogn) 
 * space complexity
-  * O(n)
+  * n
+  
+## quick sort
+* in place
+* time complexity
+  * averge case : O(nlogn)
+  * worst case: O(n<sup>2</sup>) 
+* space complexity
+  * logn
